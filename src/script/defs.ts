@@ -5,6 +5,8 @@ export const LO_H_RES = 320;
 export const LO_V_RES = 200;
 export const HI_H_RES = 640;
 export const HI_V_RES = 400;
+export const UHI_H_RES = 1920;
+export const UHI_V_RES = 1080;
 
 export const H_RES = 320;
 export const V_RES = 200;
