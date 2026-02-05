@@ -3,7 +3,8 @@ import { Palette } from "../palettes/palette";
 
 export enum DisplayResolution {
     LO_RES, // 320x200
-    HI_RES // 640x400
+    HI_RES, // 640x400
+    UHI_RES, // 1920x1080
 }
 
 export enum DisplayShading {
